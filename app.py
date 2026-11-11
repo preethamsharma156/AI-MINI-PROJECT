@@ -29,7 +29,7 @@ def train_model():
             'Student2025@', 'Developer#1', 'Password_OK', 'July1995!', 'AustinTX1',
             # Strong patterns (unpredictable, high entropy, mixed cases, symbols, no words)
             'k#9P_mZ8$qL', 'vB7*xW!2pQ', '9$mXp!Lq#8', 'wP!20_zM@1', '8*Lz#Qp&v9',
-            'mK9!v2&Xp_W', 'pQ#8!vR9$mX', 'Z9*zP@3q_9x', '7$vB!8pKzW#', 'T8*wP!20zM','xhPEhv@%fbr'
+            'mK9!v2&Xp_W', 'pQ#8!vR9$mX', 'Z9*zP@3q_9x', '7$vB!8pKzW#', 'T8*wP!20zM','xhPEhv2008@%fbr'
         ] * 80,
         'strength': [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
